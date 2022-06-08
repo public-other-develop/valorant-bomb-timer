@@ -3,7 +3,7 @@ import tkinter as tkr
 from python_imagesearch.imagesearch import imagesearch
 from datetime import datetime
 
-lenguage = 1
+lenguage = 0
 seconds = 44
 
 root = tkr.Tk()
